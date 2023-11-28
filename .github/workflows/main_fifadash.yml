@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'fifadash'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EABB2A09FE0B419E87CA334DD3BC6E2D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8B7C9362E70E4E11A5F0BB438CB59FA2 }}
